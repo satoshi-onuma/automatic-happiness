@@ -1,3 +1,9 @@
-hello  aaa
+<<<<<<< HEAD
+helloこんにちは
 
-hola aaa
+holaニーハオ
+=======
+helloこんにちは
+
+holaニーハオ
+>>>>>>> main
