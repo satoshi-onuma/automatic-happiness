@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 helloこんにちは
 
 holaニーハオ
+=======
+helloこんにちは
+
+holaニーハオ
+>>>>>>> main
